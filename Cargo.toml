@@ -1,0 +1,4 @@
+[package]
+name = "tr_actor"
+version = "0.1.0"
+authors = ["a.tsukanov <tsukanov.anton@gmail.com>"]
